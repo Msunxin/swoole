@@ -1,0 +1,14 @@
+{
+    "name": "zhengluming <luming.zheng@baozun.cn>",
+    "require": {
+        "doctrine/orm": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Swoole\\": "vendor/Swoole/",
+            "mkf\\": "vendor/mkfsoft/",
+            "SOAServer\\": "SOAServer/",
+            "tests\\": "tests/"
+        }
+    }
+}

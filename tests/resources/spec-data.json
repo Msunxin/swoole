@@ -1,0 +1,17 @@
+[
+  {
+    "goods_id": 4,
+    "spec_id": 4,
+    "stocknum": 10
+  },
+  {
+    "goods_id": 4,
+    "spec_id": 5,
+    "stocknum": 10
+  },
+  {
+    "goods_id": 4,
+    "spec_id": 6,
+    "stocknum": 0
+  }
+]

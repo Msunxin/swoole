@@ -1,0 +1,53 @@
+[
+  {
+    "id": 68,
+    "user_id": 49,
+    "goods_id": 1,
+    "spec_id": 1,
+    "name": "VANS 男性FOGHORN鞋-VN-0RRKPWT-2灰色",
+    "img": "http:\/\/img.mkf360.com\/thumb\/20140721\/6ce0f30004a25fb3300e0596a39085f0_120_120.jpg",
+    "size": null,
+    "color": null,
+    "price": "249.00",
+    "progress": 5,
+    "create_time": 1433226162,
+    "order_id": 111344,
+    "shop_id": 4922,
+    "recover": 1,
+    "re_time": 1433227981
+  },
+  {
+    "id": 112,
+    "user_id": 49,
+    "goods_id": 2,
+    "spec_id": 2,
+    "name": "东方骆驼 女 卫衣{摇丽绒处套(原毛衣)}梅红-2065093312",
+    "img": "http:\/\/img.mkf360.com\/thumb\/20150123\/d0a289e5ecfcef7f0ace22d6802a375c_120_120.JPG",
+    "size": null,
+    "color": null,
+    "price": "49.00",
+    "progress": 5,
+    "create_time": 1434678386,
+    "order_id": 234242,
+    "shop_id": 4922,
+    "recover": 0,
+    "re_time": null
+  },
+  {
+    "id": 289,
+    "user_id": 49,
+    "goods_id": 1,
+    "spec_id": 3,
+    "name": "Adidas阿迪达斯 男 篮球鞋棕-G67216",
+    "img": "http:\/\/img.mkf360.com\/thumb\/20141009\/e0d11661ce395211d033ffb45c489418_120_120.h",
+    "size": "7",
+    "color": null,
+    "price": "249.00",
+    "progress": 5,
+    "create_time": 1436322146,
+    "order_id": 0,
+    "shop_id": 4922,
+    "recover": 1,
+    "re_time": 1437566521
+  }
+]

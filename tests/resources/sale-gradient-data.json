@@ -1,0 +1,47 @@
+{
+    "special": {
+        "special_id": 3662,
+        "title": "薇姿 新品上线",
+        "is_sale_gradient": 1,
+        "sale_gradient_text": "a:4:{i:0;a:2:{s:5:\"count\";s:1:\"2\";s:6:\"amount\";s:2:\"55\";}i:1;a:2:{s:5:\"count\";s:0:\"\";s:6:\"amount\";s:0:\"\";}i:2;a:2:{s:5:\"count\";s:0:\"\";s:6:\"amount\";s:0:\"\";}i:3;a:2:{s:5:\"count\";s:0:\"\";s:6:\"amount\";s:0:\"\";}}",
+        "is_sale_gradient_original_price": 0
+    },
+    "specialGoodsIdList": [1, 2],
+    "goodsSpecNumList": [
+        {
+            "goodsId": 1,
+            "specId": 1,
+            "num": 2
+        },
+        {
+            "goodsId": 2,
+            "specId": 2,
+            "num": 1
+        },
+        {
+            "goodsId": 1,
+            "specId": 3,
+            "num": 1
+        }
+    ],
+    "specList": [
+        {
+            "goods_id": 1,
+            "spec_id": 1,
+            "crazy_price": 22,
+            "discount_fee": 5
+        },
+        {
+            "goods_id": 2,
+            "spec_id": 2,
+            "crazy_price": 40,
+            "discount_fee": 5
+        },
+        {
+            "goods_id": 1,
+            "spec_id": 3,
+            "crazy_price": 22,
+            "discount_fee": 5
+        }
+    ]
+}

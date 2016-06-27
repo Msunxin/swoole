@@ -1,0 +1,54 @@
+{
+  "userId": 49,
+  "special": {
+    "special_id": 1,
+    "title": "捆绑销售",
+    "bund_num": 2,
+    "is_sale_bund": 0,
+    "bund_amount": 30
+  },
+  "specialGoodsIdList": [
+    "1",
+    "2"
+  ],
+  "goodsSpecNumList": [
+    {
+      "goodsId": 1,
+      "specId": 1,
+      "num": 2
+    },
+    {
+      "goodsId": 2,
+      "specId": 2,
+      "num": 1
+    },
+    {
+      "goodsId": 1,
+      "specId": 3,
+      "num": 1
+    }
+  ],
+  "specList": [
+    {
+      "goods_id": 1,
+      "spec_id": 1,
+      "crazy_price": 22,
+      "discount_fee": 0,
+      "is_gift": 0
+    },
+    {
+      "goods_id": 2,
+      "spec_id": 2,
+      "crazy_price": 40,
+      "discount_fee": 0,
+      "is_gift": 0
+    },
+    {
+      "goods_id": 1,
+      "spec_id": 3,
+      "crazy_price": 22,
+      "discount_fee": 0,
+      "is_gift": 0
+    }
+  ]
+}

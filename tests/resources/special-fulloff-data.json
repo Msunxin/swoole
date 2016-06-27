@@ -1,0 +1,51 @@
+{
+    "special": {
+        "special_id": 1,
+        "title": "衣之纯秋冬男装",
+        "is_full_off": 1,
+        "is_full_off_gradient": 0,
+        "full_off_gradient_text": "",
+        "full_off_amount": 100.00,
+        "full_off_discount": 10.00,
+        "is_full_off_cumulative": 1
+
+    },
+    "specialGoodsIdList": [1, 2],
+    "goodsSpecNumList": [
+        {
+            "goodsId": 1,
+            "specId": 1,
+            "num": 2
+        },
+        {
+            "goodsId": 2,
+            "specId": 2,
+            "num": 1
+        },
+        {
+            "goodsId": 1,
+            "specId": 3,
+            "num": 1
+        }
+    ],
+    "specList": [
+        {
+            "goods_id": 1,
+            "spec_id": 1,
+            "crazy_price": 22,
+            "discount_fee": 5
+        },
+        {
+            "goods_id": 2,
+            "spec_id": 2,
+            "crazy_price": 40,
+            "discount_fee": 5
+        },
+        {
+            "goods_id": 1,
+            "spec_id": 3,
+            "crazy_price": 22,
+            "discount_fee": 5
+        }
+    ]
+}

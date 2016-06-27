@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <database name="mobileapi_unit_test">
+        <table_data name="cbd_hello_world">
+            <row>
+                <field name="hw_id">1</field>
+                <field name="name">zhangsan</field>
+                <field name="msg">zhangsan is tuipid!</field>
+                <field name="view_count">885</field>
+                <field name="is_deleted">0</field>
+                <field name="add_time">1441710255</field>
+            </row>
+            <row>
+                <field name="hw_id">2</field>
+                <field name="name">lisi</field>
+                <field name="msg">hello lisi!</field>
+                <field name="view_count">250</field>
+                <field name="is_deleted">1</field>
+                <field name="add_time">1441710267</field>
+            </row>
+            <row>
+                <field name="hw_id">3</field>
+                <field name="name">wangwu</field>
+                <field name="msg">hello wangwu.</field>
+                <field name="view_count">9998</field>
+                <field name="is_deleted">0</field>
+                <field name="add_time">1441710355</field>
+            </row>
+        </table_data>
+    </database>
+</mysqldump>
